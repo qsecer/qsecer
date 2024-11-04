@@ -247,6 +247,9 @@ li{
             margin-bottom: 16px;
           }
         }
+    hr{
+            display: none;
+        }
 }
 
 /*стили для планшетов*/
